@@ -9,9 +9,11 @@ To go to Cookie:
 * ***Sushi***      
 * Curry Rice         
 ![Image](https://rimage.gnst.jp/livejapan.com/public/article/detail/a/00/00/a0000370/img/basic/a0000370_main.jpg?20201002142956&q=80&rw=750&rh=536)       
-> I Love Sushi     
+> I Love Sushi               
+   
 1. negitoro
 2. Salmon
-3. uni        
+3. uni       
+     
 ---
  
