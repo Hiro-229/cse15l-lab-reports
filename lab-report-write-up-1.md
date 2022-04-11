@@ -5,9 +5,9 @@
 3. Then you can start using the "Github Desktop" and VS-Code to start editing your markdown files and updating your pages.
 ![Image](github-desktop.png)        
 
+           
 # Step 2: Remotely Connecting     
 ![Image](remote-connecting.png)    
-
 * Go to your terminal and type "ssh <"account name">@<"remote server name">
 * if it's you first time loging in, it will ask you if you want continue connecting. Say "Yes."
 * After that you should see the image similar to above, you have connected.
