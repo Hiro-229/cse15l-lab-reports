@@ -3,7 +3,8 @@
 1. Go download the VS-code that matches your operating software
 2. Follow the simple guide tutorial and it will lead you up to this screen.   
 3. Then you can start using the "Github Desktop" and VS-Code to start editing your markdown files and updating your pages.
-![Image](github-desktop.png)    
+![Image](github-desktop.png)        
+
 # Step 2: Remotely Connecting     
 ![Image](remote-connecting.png)    
 
